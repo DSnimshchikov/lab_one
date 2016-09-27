@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="196c8768-977c-4d65-94c0-5adfbd4a2781" name="Default" comment="fixes &#10;&#10;* .gitignore&#10;* codestyle">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Cooperator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Manager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Schoolkid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/lab_one/ru/bstu/iitus/vt41/gibkinyuriy/Teacher.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/bstu/iitus/vt41/gibkinyuriy/Main.java" afterPath="$PROJECT_DIR$/src/ru/bstu/iitus/vt41/gibkinyuriy/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/bstu/iitus/vt41/gibkinyuriy/Person.java" afterPath="$PROJECT_DIR$/src/ru/bstu/iitus/vt41/gibkinyuriy/Person.java" />
-    </list>
+    <list default="true" id="196c8768-977c-4d65-94c0-5adfbd4a2781" name="Default" comment="fixes &#10;&#10;* .gitignore&#10;* codestyle" />
     <ignored path="lab_one.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,8 +39,8 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/bstu/iitus/vt41/gibkinyuriy/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+            <state relative-caret-position="49">
+              <caret line="54" column="51" selection-start-line="53" selection-start-column="39" selection-end-line="54" selection-end-column="51" />
               <folding>
                 <element signature="e#415#416#0" expanded="true" />
                 <element signature="e#441#442#0" expanded="true" />
@@ -93,6 +81,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="DSnimshchikov &lt;dsnimshikov@gmail.com&gt;" />
         <option value="gibkin" />
         <option value="GIBKIN" />
       </list>
@@ -610,7 +599,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474396524533</updated>
-      <workItem from="1475014339928" duration="178000" />
+      <workItem from="1475014339928" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="LAB1">
       <created>1475007503544</created>
@@ -647,11 +636,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475014454342</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixes &#10;&#10;* .gitignore&#10;* codestyle">
+      <created>1475014525982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1475014525982</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178000" />
+    <option name="totallyTimeSpent" value="945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -664,14 +660,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32741934" sideWeight="0.52749" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741934" sideWeight="0.52749" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32741934" sideWeight="0.47250995" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32580644" sideWeight="0.47250995" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10638298" sideWeight="0.48335856" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -880,8 +876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/bstu/iitus/vt41/gibkinyuriy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state relative-caret-position="49">
+          <caret line="54" column="51" selection-start-line="53" selection-start-column="39" selection-end-line="54" selection-end-column="51" />
           <folding>
             <element signature="e#415#416#0" expanded="true" />
             <element signature="e#441#442#0" expanded="true" />
